@@ -18,4 +18,4 @@ def call_report_rec(x,y):
     r = power_recursive(x,y)
     print(x, " üzeri ",y, " değeri : ",r, " çağrım sayisi : ", sayac)
 
-call_report_rec(2,999)    
+call_report_rec(2,999)    #999 u 10 çağırımda buluyo
