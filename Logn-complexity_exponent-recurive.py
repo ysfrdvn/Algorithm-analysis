@@ -1,6 +1,6 @@
 def power_recursive(x,y):
     global sayac
-    sayac = sayc + 1
+    sayac = sayac + 1
     if(y==0):
         return 1
     if(y==1):
