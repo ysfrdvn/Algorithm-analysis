@@ -1,3 +1,4 @@
+sayac = 0
 def power_recursive(x,y):
     global sayac
     sayac = sayac + 1
